@@ -1,1 +1,1 @@
-# Group_Facial_expression_recognition_python
+This project can recognise different facial expressions among group of people.
